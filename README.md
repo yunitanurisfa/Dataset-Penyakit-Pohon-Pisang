@@ -1,1 +1,1 @@
-# Dataset-Penyakit-Pohon-Pisang
+# Aplikasi-Deteksi-Penyakit-Pohon-Pisang
